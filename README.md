@@ -97,3 +97,7 @@ This module requires the following modules:
    - "react-router-dom": "^6.2.1",
    - "react-scripts": "5.0.0",
    - "web-vitals": "^2.1.4"
+
+## Possible framework shifts
+
+May work on transitioning from React to Svelte for a more up-to-date framework.
